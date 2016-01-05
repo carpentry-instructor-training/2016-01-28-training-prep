@@ -1,0 +1,1 @@
+My name is Sebastian Schmeier. I am a lecturer and bioinformatics researcher at the Institute of Natural and Mathematical Sciences, Massey University Auckland. My main research interest is in gene regulation and non-coding RNAs and more broadly in the use of computers to analyse biological/medical data.
