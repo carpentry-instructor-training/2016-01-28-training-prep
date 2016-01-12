@@ -1,0 +1,5 @@
+My name is Dmytro Fishman. I am a PhD student at the University of Tartu (Estonia).
+I hold a Master's degree in Software Engineering. My current work is connected to the field of Computational Immunology in general and autoantibody profiling in particular.
+I am also interested in Machine Learning and its descendant Deep Learning and exploiting their applications in Bioinformatics. Additionally do teaching, previously taught:
+Advanced Algorithms, Text Algorithms, Data Mining and Bioinformatics at the university; run Python course for biologists from ELIXIR and was a helper on the Data Carpentry 
+workshop in Brussels.  
