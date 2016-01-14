@@ -1,0 +1,4 @@
+My name is Dan Jones and I am a Research Fellow at the University of Auckland.
+I split my time between working for New Zealand Genomics Ltd and the Bioinformatics Institute.
+I also lecture in Stage 3 undergraduate and postgraduate bioinformatics.
+I am particularly interested in using new developments in sequencing and in visualisation of genetic and genomic information.
