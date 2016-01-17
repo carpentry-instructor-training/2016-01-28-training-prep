@@ -1,0 +1,4 @@
+My name is Ben Jolly, I'm a Scientific Programmer in Landcare Research's 
+Informatics team currently working with LiDAR and satellite data. In my 'spare
+time' I'm finishing my PhD thesis (at UC) in Atmospheric Physics investigating
+Antarctic weather.
