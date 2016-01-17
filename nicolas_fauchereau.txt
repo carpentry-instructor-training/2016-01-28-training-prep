@@ -1,0 +1,1 @@
+My name is Nicolas Fauchereau, I am a climate scientist at NIWA Hamilton. I work on a variety of things, from the reconstruction of the climates of the past to seasonal forecasting. I have a strong interest in methods (statistics, machine learning particularly), in scientific computing and open science
