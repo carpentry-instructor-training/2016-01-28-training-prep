@@ -1,0 +1,3 @@
+My name is Markus Mueller and I am an Environmental Informatics Specialist at Landcare Research in Hamilton.
+I work on a number of topics that have to do with remote sensing, High Performance Computing and spatial modelling.
+I use IDLE if I can, VIM if I need to, but am tolerant of Emacs and Nano users as well. :)
