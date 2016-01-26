@@ -1,0 +1,3 @@
+I am a NeSI Application Support Specialist at the University of Auckland and have a bioinformatics
+background.  I install and otherwise support many scientific applications on the Pan cluster, 
+particularly the biological ones.
