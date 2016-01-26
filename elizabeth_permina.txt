@@ -1,0 +1,2 @@
+Hi I'm Elizabeth Permina. I'm a bioinformatician at NZGL Otago, based in Dunedin. I help researchers with the bioinformatics part of their work, such as de novo assemblies, annotation, RNA-Seq or variant calling, and conduct bioinformatics and computer literacy workshops.
+
