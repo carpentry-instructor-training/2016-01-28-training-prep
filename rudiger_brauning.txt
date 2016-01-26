@@ -1,0 +1,3 @@
+Hi, my name is Rudi. I'm a Bioinformatician working for AgResearch in Dunedin.
+Together with our biologists I analyse biological data to breed better animals faster.
+This mostly evolves around figuring out genetic differences between individual sheep.
