@@ -1,0 +1,3 @@
+My name is Silvia Canessa, I am a physicist and I work as Data Administrator and Modeller at GNS Science. 
+I build/maintain relational databases for laboratory information management systems. 
+I also code Python algorithms to calculate the risk for population and infrastructure related to an earthquake event in New Zealand.
