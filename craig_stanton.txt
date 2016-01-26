@@ -1,0 +1,1 @@
+I'm the Systems Development Manager at NIWA. My team has seven software developers, plus myself when I have the time. We mostly work in PHP, Javascript and Java. We produce internal and external applications to communicate science to expert users and to the general public.
