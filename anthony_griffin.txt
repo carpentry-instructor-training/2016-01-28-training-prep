@@ -1,0 +1,1 @@
+I do signal processing for radio astronomy for use in the Square Kilometre Array, a radio telescope that will be built in South Africa and Australia.  Most of my work is in Matlab and C++.
